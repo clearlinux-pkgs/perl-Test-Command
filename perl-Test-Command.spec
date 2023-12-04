@@ -5,7 +5,7 @@
 #
 Name     : perl-Test-Command
 Version  : 0.11
-Release  : 14
+Release  : 15
 URL      : https://cpan.metacpan.org/authors/id/D/DA/DANBOO/Test-Command-0.11.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/D/DA/DANBOO/Test-Command-0.11.tar.gz
 Summary  : Test routines for external commands
